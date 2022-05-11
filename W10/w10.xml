@@ -1,0 +1,41 @@
+<web-app>
+
+
+
+ <display-name>Archetype Created Web Application</display-name>
+
+
+
+ <servlet>
+
+
+
+ <servlet-name>Maths</servlet-name>
+
+
+
+ <jsp-file>/input.html</jsp-file>
+
+
+
+ </servlet>
+
+
+
+ <servlet-mapping>
+
+
+
+ <servlet-name>xyz</servlet-name>
+
+
+
+ <url-pattern>/test</url-pattern>
+
+
+
+ </servlet-mapping>
+
+
+
+</web-app>
